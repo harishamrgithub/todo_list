@@ -12,7 +12,7 @@ const TodoList = () => {
           <input
             type="text"
             className="heading-input"
-            placeholder="Enter heading"
+            placeholder="Enter headings"
             
           />
           <button className="add-list-button">Add Heading</button>
